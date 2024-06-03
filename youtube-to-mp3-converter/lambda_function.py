@@ -10,7 +10,7 @@ def lambda_handler(event, context):
     destination_bucket ="youtube-2-mp3-files"
     # url input from user 
     yt = YouTube( 
-        str("https://youtu.be/Riwl7V69WH0?si=msqKMBAw4d_VjpML")) 
+        str("https://youtu.be/Mt-JJBabxiA")) 
       
     # extract only audio 
     video = yt.streams.filter(only_audio=True).first() 
