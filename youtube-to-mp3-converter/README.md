@@ -20,10 +20,17 @@ Downloading and converting copyrighted content without permission is illegal. Us
 - Configure the Lambda function with an environment variable named destination_bucket containing the name of your S3 bucket for storing the converted MP3 files.
 - Grant the Lambda function appropriate permissions to access S3 using an IAM role.
 
+## Limitations:
+
+- This function uses `pytube` which may have limitations on downloadable video formats and resolutions.
+- Converting and uploading large video files might exceed Lambda execution time limits.
+
 ## Security Considerations:
 
 Downloading copyrighted content without permission is illegal. Use this project responsibly with videos you have the rights to convert.
 Implement proper IAM roles and permissions for the Lambda function to access S3 securely.
-Disclaimer:
+
+
+## Disclaimer:
 
 **This code is provided for educational purposes only. The author is not responsible for any misuse of this project.**
