@@ -26,6 +26,10 @@ This list provides a springboard for your AWS journey. As you gain confidence, y
 - Learn: [Amazon Textract](https://www.internetkatta.com/extract-text-or-data-using-aws-textract), Amazon S3, Python or any other language basic data processing logic(read/write/append). 
 - Do: [Build Business Card Organiser](https://github.com/AvinashDalvi89/list-of-AWS-kickstart-projects/tree/main/business-card-organiser-using-textract-s3)
 
+## Youtube to MP3 converter using Lambda and S3 bucket (Serverless) . 
+- Learn: [AWS Lambda ](https://aws.amazon.com/lambda/getting-started/)
+- Do: [Youtube to MP3 ](https://github.com/AvinashDalvi89/list-of-AWS-kickstart-projects/tree/main/youtube-to-mp3-converter)
+
 ## Keeping it Simple:
 
 - These projects focus on managed services that require minimal coding, allowing you to learn core AWS concepts without getting bogged down in complex configurations.
