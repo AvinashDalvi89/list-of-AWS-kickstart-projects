@@ -30,6 +30,15 @@ This list provides a springboard for your AWS journey. As you gain confidence, y
 - Learn: [AWS Lambda ](https://aws.amazon.com/lambda/getting-started/)
 - Do: [Youtube to MP3 ](https://github.com/AvinashDalvi89/list-of-AWS-kickstart-projects/tree/main/youtube-to-mp3-converter)
 
+## URL shortener like Bitly.com 
+- Learn
+  - [AWS Lambda ](https://aws.amazon.com/lambda/getting-started/)
+  - [Amazon API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
+  - Route 53
+  - CloudFront
+  - SQS
+- Do [URL Shortener](https://github.com/AvinashDalvi89/list-of-AWS-kickstart-projects/tree/main/url-shortener-project) 
+
 ## Keeping it Simple:
 
 - These projects focus on managed services that require minimal coding, allowing you to learn core AWS concepts without getting bogged down in complex configurations.
