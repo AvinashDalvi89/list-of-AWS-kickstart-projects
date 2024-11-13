@@ -39,6 +39,17 @@ This list provides a springboard for your AWS journey. As you gain confidence, y
   - SQS
 - Do [URL Shortener](https://github.com/AvinashDalvi89/list-of-AWS-kickstart-projects/tree/main/url-shortener-project) 
 
+## Securing and Seamless Deployment of Web Application ( S3 + Amplify )
+- Learn
+  - AWS
+  - S3
+  - Route 53
+  - CloudFront
+  - Custom VAPT Headers
+  - Seamless Deployment using S3 and Amplify
+  - Securing Applicaion with Custom Headers
+- Do [VAPT Headers with Amplify and S3 ]((https://github.com/kedar1023/amplify_deployment_vapt/tree/main)https://github.com/kedar1023/amplify_deployment_vapt/tree/main)
+  
 ## Keeping it Simple:
 
 - These projects focus on managed services that require minimal coding, allowing you to learn core AWS concepts without getting bogged down in complex configurations.
